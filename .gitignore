@@ -1,0 +1,11 @@
+#  .gitignore
+**/*.DS_Store
+**/*.pyc
+**/*.swp
+**/*.ipynb_checkpoints
+**/*.pyc
+**/__pycache__
+**/.pytest_cache
+.egg
+.egg-info
+dist
